@@ -9,6 +9,7 @@ import tensorflow.compat.v1 as tf
 
 tf.disable_v2_behavior()
 
+
 def unpickle(filename):
     with open(filename, 'rb') as f:
         d = pickle.load(f, encoding='latin1')
@@ -114,7 +115,7 @@ with tf.Session() as sess:
     total_batch = int(X_train.shape[0] / batch_size)
     #    for i in range(training_iters):
     start_time = time.time()
-    for i in range(200):
+    for i in range(20):
         for batch in range(total_batch):
             batch_x = X_train[batch * batch_size: (batch + 1) * batch_size, :]
             batch_y = y_train[batch * batch_size: (batch + 1) * batch_size, :]
@@ -125,7 +126,7 @@ with tf.Session() as sess:
         end_time = time.time()
         print('time: ', (end_time - start_time))
         start_time = end_time
-        print("---------------%d onpech is finished-------------------", i)
+        print("--------------- ", i, " onpech is finished -------------------")
     print("Optimization Finished!")
 
     # Test
