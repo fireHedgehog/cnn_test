@@ -3,17 +3,15 @@ import numpy as np
 
 from tensorflow.python.framework import dtypes
 from tensorflow.python.framework.ops import convert_to_tensor
-from tensorflow.data import Dataset
-
 
 VGG_MEAN = tf.constant([123.68, 116.779, 103.939], dtype=tf.float32)
 
 # 把图片数据转化为三维矩阵
 class ImageDataGenerator(object):
     def __init__(self, images, labels, batch_size, num_classes, image_format='jpg', shuffle=True):
-        self.img_paths = images # [P1,P2]
-        self.labels = labels # [1,2]
-        self.data_size = len(self.labels)        
+        self.img_paths = images  # [P1,P2]
+        self.labels = labels  # [1,2]
+        self.data_size = len(self.labels)
         self.num_classes = num_classes
         self.image_format = image_format
 
@@ -42,7 +40,7 @@ class ImageDataGenerator(object):
     def _parse_function_train(self, filename, label):
         one_hot = tf.one_hot(label, self.num_classes)
         img_string = tf.read_file(filename)
-        if self.image_format == "jpg": # 增加图片类别区分
+        if self.image_format == "jpg":  # 增加图片类别区分
             img_decoded = tf.image.decode_jpeg(img_string, channels=3)
         elif self.image_format == "png":
             img_decoded = tf.image.decode_png(img_string, channels=3)
