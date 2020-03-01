@@ -71,7 +71,7 @@ def conv(img, conv_filter):
         print("Filter ", filter_num + 1)
         curr_filter = conv_filter[filter_num, :]  # getting a filter from the bank.
         """ 
-        Checking if there are multiple channels for the single filter.
+        Checking if there are mult iple channels for the single filter.
         If so, then each channel will convolve the image.
         The result of all convolutions are summed to return a single feature map.
         """
