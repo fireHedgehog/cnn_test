@@ -18,3 +18,7 @@
 03/01/2020 10:11:01 PM - INFO - ***Doing generation 1 of 10***
 03/01/2020 10:12:46 PM - INFO - ***Evolving 10 generations with population 20***
 03/01/2020 10:12:46 PM - INFO - ***Doing generation 1 of 10***
+03/01/2020 10:17:36 PM - INFO - ***Evolving 5 generations with population 10***
+03/01/2020 10:17:36 PM - INFO - ***Doing generation 1 of 5***
+03/01/2020 10:18:19 PM - INFO - ***Evolving 5 generations with population 10***
+03/01/2020 10:18:19 PM - INFO - ***Doing generation 1 of 5***

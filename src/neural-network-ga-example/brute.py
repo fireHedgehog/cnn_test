@@ -11,6 +11,7 @@ logging.basicConfig(
     filename='brute-log.txt'
 )
 
+
 def train_networks(networks, dataset):
     """Train each network.
 
@@ -31,6 +32,7 @@ def train_networks(networks, dataset):
     # Print out the top 5 networks.
     print_networks(networks[:5])
 
+
 def print_networks(networks):
     """Print a list of networks.
 
@@ -38,9 +40,10 @@ def print_networks(networks):
         networks (list): The population of networks
 
     """
-    logging.info('-'*80)
+    logging.info('-' * 80)
     for network in networks:
         network.print_network()
+
 
 def generate_network_list(nn_param_choices):
     """Generate a list of all possible networks.
@@ -59,7 +62,6 @@ def generate_network_list(nn_param_choices):
         for nbl in nn_param_choices['nb_layers']:
             for a in nn_param_choices['activation']:
                 for o in nn_param_choices['optimizer']:
-
                     # Set the parameters.
                     network = {
                         'nb_neurons': nbn,
@@ -75,6 +77,7 @@ def generate_network_list(nn_param_choices):
                     networks.append(network_obj)
 
     return networks
+
 
 def main():
     """Brute force test every network."""
@@ -93,6 +96,7 @@ def main():
     networks = generate_network_list(nn_param_choices)
 
     train_networks(networks, dataset)
+
 
 if __name__ == '__main__':
     main()

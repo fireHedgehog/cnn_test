@@ -11,6 +11,7 @@ logging.basicConfig(
     filename='log.txt'
 )
 
+
 def train_networks(networks, dataset):
     """Train each network.
 
@@ -23,6 +24,7 @@ def train_networks(networks, dataset):
         network.train(dataset)
         pbar.update(1)
     pbar.close()
+
 
 def get_average_accuracy(networks):
     """Get the average accuracy for a group of networks.
@@ -39,6 +41,7 @@ def get_average_accuracy(networks):
         total_accuracy += network.accuracy
 
     return total_accuracy / len(networks)
+
 
 def generate(generations, population, nn_param_choices, dataset):
     """Generate a network with the genetic algorithm.
@@ -66,7 +69,7 @@ def generate(generations, population, nn_param_choices, dataset):
 
         # Print out the average accuracy each generation.
         logging.info("Generation average: %.2f%%" % (average_accuracy * 100))
-        logging.info('-'*80)
+        logging.info('-' * 80)
 
         # Evolve, except on the last iteration.
         if i != generations - 1:
@@ -79,6 +82,7 @@ def generate(generations, population, nn_param_choices, dataset):
     # Print out the top 5 networks.
     print_networks(networks[:5])
 
+
 def print_networks(networks):
     """Print a list of networks.
 
@@ -86,9 +90,10 @@ def print_networks(networks):
         networks (list): The population of networks
 
     """
-    logging.info('-'*80)
+    logging.info('-' * 80)
     for network in networks:
         network.print_network()
+
 
 def main():
     """Evolve a network."""
@@ -108,6 +113,7 @@ def main():
                  (generations, population))
 
     generate(generations, population, nn_param_choices, dataset)
+
 
 if __name__ == '__main__':
     main()

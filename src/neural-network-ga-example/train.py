@@ -14,6 +14,7 @@ from keras.callbacks import EarlyStopping
 # Helper: Early stopping.
 early_stopper = EarlyStopping(patience=5)
 
+
 def get_cifar10():
     """Retrieve the CIFAR dataset and process the data."""
     # Set defaults.
@@ -22,7 +23,7 @@ def get_cifar10():
     input_shape = (3072,)
 
     # Get the data.
-    (x_train, y_train), (x_test, y_test) = cifar10.load_data()[:100]
+    (x_train, y_train), (x_test, y_test) = cifar10.load_data()
     x_train = x_train.reshape(50000, 3072)
     x_test = x_test.reshape(10000, 3072)
     x_train = x_train.astype('float32')
@@ -35,6 +36,7 @@ def get_cifar10():
     y_test = to_categorical(y_test, nb_classes)
 
     return (nb_classes, batch_size, input_shape, x_train, x_test, y_train, y_test)
+
 
 def get_mnist():
     """Retrieve the MNIST dataset and process the data."""
@@ -57,6 +59,7 @@ def get_mnist():
     y_test = to_categorical(y_test, nb_classes)
 
     return (nb_classes, batch_size, input_shape, x_train, x_test, y_train, y_test)
+
 
 def compile_model(network, nb_classes, input_shape):
     """Compile a sequential model.
@@ -95,6 +98,7 @@ def compile_model(network, nb_classes, input_shape):
 
     return model
 
+
 def train_and_score(network, dataset):
     """Train the model, return test loss.
 
@@ -105,10 +109,10 @@ def train_and_score(network, dataset):
     """
     if dataset == 'cifar10':
         nb_classes, batch_size, input_shape, x_train, \
-            x_test, y_train, y_test = get_cifar10()
+        x_test, y_train, y_test = get_cifar10()
     elif dataset == 'mnist':
         nb_classes, batch_size, input_shape, x_train, \
-            x_test, y_train, y_test = get_mnist()
+        x_test, y_train, y_test = get_mnist()
 
     model = compile_model(network, nb_classes, input_shape)
 
