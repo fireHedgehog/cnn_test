@@ -131,3 +131,5 @@ dmypy.json
 
 dog_cat_data/
 cifar-10-batches-py/
+
+data/
