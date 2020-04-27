@@ -33,4 +33,4 @@ g = SteadyStateGA(
 )
 g.run()
 
-write_performance(g.evaluation_history, 'SteadyStateGA_CIFAR10.txt')
+write_performance(g.evaluation_history, 'SteadyStateGA_CIFAR10_1.txt')
