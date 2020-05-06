@@ -1,8 +1,6 @@
-# cnn_test
-
+# genetic Convolutional Neural Networks
+To learn the 2 different GA-CNN researches.
 
 # Reference
-
-#### Example one. (download from Ahmedfgad's GitBub)
-Git: https://github.com/ahmedfgad/NumPyCNN<br/>
-Article https://www.linkedin.com/pulse/building-convolutional-neural-network-using-numpy-from-ahmed-gad/
+https://github.com/aqibsaeed/Genetic-CNN
+https://github.com/MatthewZou9419/GACNN
