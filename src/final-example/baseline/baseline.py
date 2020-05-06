@@ -22,10 +22,10 @@ model.add(Dense(84, activation='relu', use_bias=False))
 model.add(Dense(10, activation='softmax', use_bias=False))
 model.summary()
 
-model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['accuracy'])
 history = model.fit(X_train, y_train, epochs=600, validation_data=(X_test, y_test))
 
-with open('GDCNN_CIFAR10.txt', 'a+') as f:
+with open('SGDCNN_CIFAR10.txt', 'a+') as f:
     info = history.history
     cols = list(info.keys())
     text = '\t'.join(cols) + '\n'
