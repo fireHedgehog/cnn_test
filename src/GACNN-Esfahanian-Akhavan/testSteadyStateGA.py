@@ -8,7 +8,7 @@ from DataMgr import load_cifar10, write_performance
 from SteadyStateGA import SteadyStateGA
 from keras.utils import to_categorical
 
-root = '../../../data/cifar-10-batches-py'
+root = '../../data/cifar-10-batches-py'
 # root = '/home/u800199/workdir/datasets/cifar10'
 X_train, y_train, X_test, y_test = load_cifar10(root)
 y_train, y_test = to_categorical(y_train), to_categorical(y_test)
