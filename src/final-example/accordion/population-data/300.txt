@@ -1,0 +1,1769 @@
+Iter: 1
+Best_fit: {'pop': 7, 'train_loss': 2.303, 'train_acc': 0.1544}, avg_fitness: 0.0987
+Selected pop: [58, 39]
+Crossover finished.
+Replacement(83, fitness: 0.0630) finished.
+Iter: 2
+Best_fit: {'pop': 7, 'train_loss': 2.3007, 'train_acc': 0.1638}, avg_fitness: 0.0988
+Selected pop: [97, 119]
+Crossover finished.
+Replacement(81, fitness: 0.0726) finished.
+Iter: 3
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1686}, avg_fitness: 0.0980
+Selected pop: [75, 88]
+Crossover finished.
+Replacement(15, fitness: 0.0652) finished.
+Iter: 4
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1538}, avg_fitness: 0.0991
+Selected pop: 5
+Mutation finished.
+Replacement(106, fitness: 0.0676) finished.
+Iter: 5
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1582}, avg_fitness: 0.0986
+Selected pop: [61, 64]
+Crossover finished.
+Replacement(60, fitness: 0.0736) finished.
+Iter: 6
+Best_fit: {'pop': 7, 'train_loss': 2.3036, 'train_acc': 0.1598}, avg_fitness: 0.0997
+Selected pop: 24
+Mutation finished.
+Replacement(15, fitness: 0.0738) finished.
+Iter: 7
+Best_fit: {'pop': 7, 'train_loss': 2.3017, 'train_acc': 0.1572}, avg_fitness: 0.0994
+Selected pop: 91
+Mutation finished.
+Replacement(68, fitness: 0.0764) finished.
+Iter: 8
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.164}, avg_fitness: 0.0997
+Selected pop: 16
+Mutation finished.
+Replacement(95, fitness: 0.0724) finished.
+Iter: 9
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.159}, avg_fitness: 0.0997
+Selected pop: 105
+Mutation finished.
+Replacement(15, fitness: 0.0754) finished.
+Iter: 10
+Best_fit: {'pop': 7, 'train_loss': 2.3039, 'train_acc': 0.152, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1003
+Selected pop: [85, 111]
+Crossover finished.
+Replacement(65, fitness: 0.0742) finished.
+Iter: 11
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.165}, avg_fitness: 0.1014
+Selected pop: [62, 57]
+Crossover finished.
+Replacement(17, fitness: 0.0798) finished.
+Iter: 12
+Best_fit: {'pop': 7, 'train_loss': 2.3036, 'train_acc': 0.1566}, avg_fitness: 0.1004
+Selected pop: [40, 96]
+Crossover finished.
+Replacement(14, fitness: 0.0808) finished.
+Iter: 13
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.1614}, avg_fitness: 0.1003
+Selected pop: [94, 61]
+Crossover finished.
+Replacement(115, fitness: 0.0766) finished.
+Iter: 14
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1612}, avg_fitness: 0.1009
+Selected pop: [7, 56]
+Crossover finished.
+Replacement(58, fitness: 0.0774) finished.
+Iter: 15
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1606}, avg_fitness: 0.1015
+Selected pop: 113
+Mutation finished.
+Replacement(74, fitness: 0.0784) finished.
+Iter: 16
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.1528}, avg_fitness: 0.1008
+Selected pop: 30
+Mutation finished.
+Replacement(30, fitness: 0.0834) finished.
+Iter: 17
+Best_fit: {'pop': 7, 'train_loss': 2.2999, 'train_acc': 0.1674}, avg_fitness: 0.1010
+Selected pop: [47, 111]
+Crossover finished.
+Replacement(73, fitness: 0.0776) finished.
+Iter: 18
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1538}, avg_fitness: 0.1013
+Selected pop: [6, 77]
+Crossover finished.
+Replacement(16, fitness: 0.0816) finished.
+Iter: 19
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1558}, avg_fitness: 0.1014
+Selected pop: [116, 39]
+Crossover finished.
+Replacement(2, fitness: 0.0810) finished.
+Iter: 20
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.1562, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1015
+Selected pop: 112
+Mutation finished.
+Replacement(102, fitness: 0.0834) finished.
+Iter: 21
+Best_fit: {'pop': 7, 'train_loss': 2.3011, 'train_acc': 0.1648}, avg_fitness: 0.1017
+Selected pop: [31, 48]
+Crossover finished.
+Replacement(110, fitness: 0.0858) finished.
+Iter: 22
+Best_fit: {'pop': 7, 'train_loss': 2.301, 'train_acc': 0.1632}, avg_fitness: 0.1018
+Selected pop: [5, 29]
+Crossover finished.
+Replacement(42, fitness: 0.0782) finished.
+Iter: 23
+Best_fit: {'pop': 7, 'train_loss': 2.3037, 'train_acc': 0.1524}, avg_fitness: 0.1024
+Selected pop: 22
+Mutation finished.
+Replacement(83, fitness: 0.0818) finished.
+Iter: 24
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1744}, avg_fitness: 0.1023
+Selected pop: 52
+Mutation finished.
+Replacement(30, fitness: 0.0808) finished.
+Iter: 25
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.1604}, avg_fitness: 0.1021
+Selected pop: 112
+Mutation finished.
+Replacement(44, fitness: 0.0836) finished.
+Iter: 26
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1564}, avg_fitness: 0.1030
+Selected pop: [1, 58]
+Crossover finished.
+Replacement(96, fitness: 0.0866) finished.
+Iter: 27
+Best_fit: {'pop': 7, 'train_loss': 2.3036, 'train_acc': 0.1534}, avg_fitness: 0.1028
+Selected pop: 55
+Mutation finished.
+Replacement(30, fitness: 0.0822) finished.
+Iter: 28
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1544}, avg_fitness: 0.1028
+Selected pop: [10, 83]
+Crossover finished.
+Replacement(30, fitness: 0.0782) finished.
+Iter: 29
+Best_fit: {'pop': 7, 'train_loss': 2.3029, 'train_acc': 0.1548}, avg_fitness: 0.1030
+Selected pop: 48
+Mutation finished.
+Replacement(104, fitness: 0.0830) finished.
+Iter: 30
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1566, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1037
+Selected pop: [58, 81]
+Crossover finished.
+Replacement(79, fitness: 0.0850) finished.
+Iter: 31
+Best_fit: {'pop': 7, 'train_loss': 2.3031, 'train_acc': 0.1558}, avg_fitness: 0.1032
+Selected pop: 37
+Mutation finished.
+Replacement(79, fitness: 0.0806) finished.
+Iter: 32
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.162}, avg_fitness: 0.1039
+Selected pop: 17
+Mutation finished.
+Replacement(79, fitness: 0.0810) finished.
+Iter: 33
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1518}, avg_fitness: 0.1034
+Selected pop: [69, 51]
+Crossover finished.
+Replacement(117, fitness: 0.0870) finished.
+Iter: 34
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1582}, avg_fitness: 0.1032
+Selected pop: [62, 75]
+Crossover finished.
+Replacement(38, fitness: 0.0862) finished.
+Iter: 35
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.1632}, avg_fitness: 0.1033
+Selected pop: [23, 86]
+Crossover finished.
+Replacement(87, fitness: 0.0866) finished.
+Iter: 36
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.154}, avg_fitness: 0.1033
+Selected pop: [64, 60]
+Crossover finished.
+Replacement(0, fitness: 0.0802) finished.
+Iter: 37
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1552}, avg_fitness: 0.1040
+Selected pop: 9
+Mutation finished.
+Replacement(3, fitness: 0.0868) finished.
+Iter: 38
+Best_fit: {'pop': 7, 'train_loss': 2.3029, 'train_acc': 0.1692}, avg_fitness: 0.1044
+Selected pop: 119
+Mutation finished.
+Replacement(102, fitness: 0.0896) finished.
+Iter: 39
+Best_fit: {'pop': 7, 'train_loss': 2.304, 'train_acc': 0.1588}, avg_fitness: 0.1034
+Selected pop: [5, 68]
+Crossover finished.
+Replacement(26, fitness: 0.0824) finished.
+Iter: 40
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.1626, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1040
+Selected pop: 99
+Mutation finished.
+Replacement(91, fitness: 0.0880) finished.
+Iter: 41
+Best_fit: {'pop': 7, 'train_loss': 2.3001, 'train_acc': 0.1612}, avg_fitness: 0.1042
+Selected pop: 53
+Mutation finished.
+Replacement(117, fitness: 0.0882) finished.
+Iter: 42
+Best_fit: {'pop': 7, 'train_loss': 2.304, 'train_acc': 0.1612}, avg_fitness: 0.1047
+Selected pop: [66, 54]
+Crossover finished.
+Replacement(86, fitness: 0.0862) finished.
+Iter: 43
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1626}, avg_fitness: 0.1044
+Selected pop: 60
+Mutation finished.
+Replacement(33, fitness: 0.0872) finished.
+Iter: 44
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.162}, avg_fitness: 0.1040
+Selected pop: [33, 99]
+Crossover finished.
+Replacement(38, fitness: 0.0878) finished.
+Iter: 45
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1536}, avg_fitness: 0.1040
+Selected pop: [78, 101]
+Crossover finished.
+Replacement(63, fitness: 0.0840) finished.
+Iter: 46
+Best_fit: {'pop': 7, 'train_loss': 2.3008, 'train_acc': 0.1626}, avg_fitness: 0.1045
+Selected pop: [47, 105]
+Crossover finished.
+Replacement(71, fitness: 0.0890) finished.
+Iter: 47
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1596}, avg_fitness: 0.1045
+Selected pop: 79
+Mutation finished.
+Replacement(88, fitness: 0.0900) finished.
+Iter: 48
+Best_fit: {'pop': 7, 'train_loss': 2.3042, 'train_acc': 0.1516}, avg_fitness: 0.1050
+Selected pop: [117, 52]
+Crossover finished.
+Replacement(26, fitness: 0.0850) finished.
+Iter: 49
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.1592}, avg_fitness: 0.1046
+Selected pop: [18, 115]
+Crossover finished.
+Replacement(23, fitness: 0.0906) finished.
+Iter: 50
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1572, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1042
+Selected pop: [34, 4]
+Crossover finished.
+Replacement(76, fitness: 0.0900) finished.
+Iter: 51
+Best_fit: {'pop': 7, 'train_loss': 2.3016, 'train_acc': 0.1664}, avg_fitness: 0.1052
+Selected pop: [112, 80]
+Crossover finished.
+Replacement(53, fitness: 0.0906) finished.
+Iter: 52
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1592}, avg_fitness: 0.1048
+Selected pop: [81, 99]
+Crossover finished.
+Replacement(64, fitness: 0.0906) finished.
+Iter: 53
+Best_fit: {'pop': 7, 'train_loss': 2.3039, 'train_acc': 0.1564}, avg_fitness: 0.1046
+Selected pop: [63, 49]
+Crossover finished.
+Replacement(64, fitness: 0.0828) finished.
+Iter: 54
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1618}, avg_fitness: 0.1047
+Selected pop: [84, 30]
+Crossover finished.
+Replacement(76, fitness: 0.0826) finished.
+Iter: 55
+Best_fit: {'pop': 7, 'train_loss': 2.3031, 'train_acc': 0.1512}, avg_fitness: 0.1046
+Selected pop: [61, 86]
+Crossover finished.
+Replacement(63, fitness: 0.0908) finished.
+Iter: 56
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.1648}, avg_fitness: 0.1051
+Selected pop: [11, 27]
+Crossover finished.
+Replacement(62, fitness: 0.0896) finished.
+Iter: 57
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1592}, avg_fitness: 0.1050
+Selected pop: [6, 100]
+Crossover finished.
+Replacement(51, fitness: 0.0892) finished.
+Iter: 58
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.1558}, avg_fitness: 0.1048
+Selected pop: [33, 110]
+Crossover finished.
+Replacement(51, fitness: 0.0692) finished.
+Iter: 59
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1654}, avg_fitness: 0.1050
+Selected pop: [29, 96]
+Crossover finished.
+Replacement(39, fitness: 0.0880) finished.
+Iter: 60
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1506, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1051
+Selected pop: [42, 1]
+Crossover finished.
+Replacement(39, fitness: 0.0856) finished.
+Iter: 61
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1592}, avg_fitness: 0.1052
+Selected pop: [47, 108]
+Crossover finished.
+Replacement(85, fitness: 0.0882) finished.
+Iter: 62
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.156}, avg_fitness: 0.1046
+Selected pop: [49, 53]
+Crossover finished.
+Replacement(103, fitness: 0.0928) finished.
+Iter: 63
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.162}, avg_fitness: 0.1052
+Selected pop: [2, 28]
+Crossover finished.
+Replacement(31, fitness: 0.0892) finished.
+Iter: 64
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.1638}, avg_fitness: 0.1055
+Selected pop: [73, 119]
+Crossover finished.
+Replacement(62, fitness: 0.0906) finished.
+Iter: 65
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1522}, avg_fitness: 0.1049
+Selected pop: [86, 106]
+Crossover finished.
+Replacement(82, fitness: 0.0912) finished.
+Iter: 66
+Best_fit: {'pop': 7, 'train_loss': 2.3029, 'train_acc': 0.1538}, avg_fitness: 0.1052
+Selected pop: 34
+Mutation finished.
+Replacement(89, fitness: 0.0920) finished.
+Iter: 67
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1608}, avg_fitness: 0.1051
+Selected pop: [9, 98]
+Crossover finished.
+Replacement(36, fitness: 0.0876) finished.
+Iter: 68
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.1678}, avg_fitness: 0.1052
+Selected pop: [82, 53]
+Crossover finished.
+Replacement(82, fitness: 0.0874) finished.
+Iter: 69
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1594}, avg_fitness: 0.1058
+Selected pop: [105, 95]
+Crossover finished.
+Replacement(97, fitness: 0.0896) finished.
+Iter: 70
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.1558, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1056
+Selected pop: [22, 118]
+Crossover finished.
+Replacement(28, fitness: 0.0938) finished.
+Iter: 71
+Best_fit: {'pop': 7, 'train_loss': 2.3016, 'train_acc': 0.1552}, avg_fitness: 0.1058
+Selected pop: [16, 44]
+Crossover finished.
+Replacement(64, fitness: 0.0924) finished.
+Iter: 72
+Best_fit: {'pop': 7, 'train_loss': 2.3012, 'train_acc': 0.1568}, avg_fitness: 0.1053
+Selected pop: [52, 111]
+Crossover finished.
+Replacement(25, fitness: 0.0904) finished.
+Iter: 73
+Best_fit: {'pop': 7, 'train_loss': 2.3029, 'train_acc': 0.1574}, avg_fitness: 0.1056
+Selected pop: 102
+Mutation finished.
+Replacement(25, fitness: 0.0590) finished.
+Iter: 74
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1534}, avg_fitness: 0.1050
+Selected pop: [2, 95]
+Crossover finished.
+Replacement(85, fitness: 0.0900) finished.
+Iter: 75
+Best_fit: {'pop': 7, 'train_loss': 2.3039, 'train_acc': 0.155}, avg_fitness: 0.1053
+Selected pop: [17, 59]
+Crossover finished.
+Replacement(72, fitness: 0.0904) finished.
+Iter: 76
+Best_fit: {'pop': 7, 'train_loss': 2.3013, 'train_acc': 0.16}, avg_fitness: 0.1059
+Selected pop: [50, 48]
+Crossover finished.
+Replacement(94, fitness: 0.0910) finished.
+Iter: 77
+Best_fit: {'pop': 7, 'train_loss': 2.3048, 'train_acc': 0.1638}, avg_fitness: 0.1057
+Selected pop: [119, 13]
+Crossover finished.
+Replacement(41, fitness: 0.0938) finished.
+Iter: 78
+Best_fit: {'pop': 7, 'train_loss': 2.3006, 'train_acc': 0.1674}, avg_fitness: 0.1059
+Selected pop: [62, 84]
+Crossover finished.
+Replacement(2, fitness: 0.0900) finished.
+Iter: 79
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.1618}, avg_fitness: 0.1062
+Selected pop: 27
+Mutation finished.
+Replacement(11, fitness: 0.0880) finished.
+Iter: 80
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.16, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1052
+Selected pop: [116, 101]
+Crossover finished.
+Replacement(52, fitness: 0.0944) finished.
+Iter: 81
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.1556}, avg_fitness: 0.1060
+Selected pop: [75, 42]
+Crossover finished.
+Replacement(116, fitness: 0.0932) finished.
+Iter: 82
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1566}, avg_fitness: 0.1059
+Selected pop: [32, 41]
+Crossover finished.
+Replacement(117, fitness: 0.0932) finished.
+Iter: 83
+Best_fit: {'pop': 7, 'train_loss': 2.3012, 'train_acc': 0.1694}, avg_fitness: 0.1060
+Selected pop: [62, 107]
+Crossover finished.
+Replacement(61, fitness: 0.0942) finished.
+Iter: 84
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.162}, avg_fitness: 0.1057
+Selected pop: [81, 105]
+Crossover finished.
+Replacement(100, fitness: 0.0896) finished.
+Iter: 85
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1596}, avg_fitness: 0.1063
+Selected pop: [119, 64]
+Crossover finished.
+Replacement(100, fitness: 0.0808) finished.
+Iter: 86
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1526}, avg_fitness: 0.1056
+Selected pop: [38, 33]
+Crossover finished.
+Replacement(105, fitness: 0.0924) finished.
+Iter: 87
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1588}, avg_fitness: 0.1060
+Selected pop: [67, 21]
+Crossover finished.
+Replacement(13, fitness: 0.0920) finished.
+Iter: 88
+Best_fit: {'pop': 7, 'train_loss': 2.3039, 'train_acc': 0.1532}, avg_fitness: 0.1059
+Selected pop: [92, 12]
+Crossover finished.
+Replacement(13, fitness: 0.0822) finished.
+Iter: 89
+Best_fit: {'pop': 7, 'train_loss': 2.3023, 'train_acc': 0.1604}, avg_fitness: 0.1060
+Selected pop: [47, 16]
+Crossover finished.
+Replacement(13, fitness: 0.0760) finished.
+Iter: 90
+Best_fit: {'pop': 7, 'train_loss': 2.3006, 'train_acc': 0.1626, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1063
+Selected pop: 101
+Mutation finished.
+Replacement(13, fitness: 0.0870) finished.
+Iter: 91
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1598}, avg_fitness: 0.1060
+Selected pop: 22
+Mutation finished.
+Replacement(61, fitness: 0.0880) finished.
+Iter: 92
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.165}, avg_fitness: 0.1065
+Selected pop: [58, 108]
+Crossover finished.
+Replacement(82, fitness: 0.0918) finished.
+Iter: 93
+Best_fit: {'pop': 7, 'train_loss': 2.3003, 'train_acc': 0.164}, avg_fitness: 0.1069
+Selected pop: 83
+Mutation finished.
+Replacement(118, fitness: 0.0920) finished.
+Iter: 94
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1562}, avg_fitness: 0.1064
+Selected pop: 105
+Mutation finished.
+Replacement(1, fitness: 0.0938) finished.
+Iter: 95
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1592}, avg_fitness: 0.1056
+Selected pop: [73, 44]
+Crossover finished.
+Replacement(22, fitness: 0.0920) finished.
+Iter: 96
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1578}, avg_fitness: 0.1065
+Selected pop: [100, 55]
+Crossover finished.
+Replacement(118, fitness: 0.0920) finished.
+Iter: 97
+Best_fit: {'pop': 7, 'train_loss': 2.3041, 'train_acc': 0.154}, avg_fitness: 0.1067
+Selected pop: [26, 105]
+Crossover finished.
+Replacement(118, fitness: 0.0874) finished.
+Iter: 98
+Best_fit: {'pop': 7, 'train_loss': 2.3045, 'train_acc': 0.1542}, avg_fitness: 0.1065
+Selected pop: 6
+Mutation finished.
+Replacement(20, fitness: 0.0916) finished.
+Iter: 99
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.168}, avg_fitness: 0.1069
+Selected pop: [117, 34]
+Crossover finished.
+Replacement(1, fitness: 0.0922) finished.
+Iter: 100
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.1526, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1062
+Selected pop: [82, 112]
+Crossover finished.
+Replacement(110, fitness: 0.0928) finished.
+Iter: 101
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.16}, avg_fitness: 0.1063
+Selected pop: 81
+Mutation finished.
+Replacement(52, fitness: 0.0910) finished.
+Iter: 102
+Best_fit: {'pop': 7, 'train_loss': 2.3031, 'train_acc': 0.1532}, avg_fitness: 0.1067
+Selected pop: [112, 17]
+Crossover finished.
+Replacement(82, fitness: 0.0922) finished.
+Iter: 103
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1628}, avg_fitness: 0.1064
+Selected pop: [0, 29]
+Crossover finished.
+Replacement(101, fitness: 0.0906) finished.
+Iter: 104
+Best_fit: {'pop': 7, 'train_loss': 2.303, 'train_acc': 0.1648}, avg_fitness: 0.1063
+Selected pop: 28
+Mutation finished.
+Replacement(14, fitness: 0.0926) finished.
+Iter: 105
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1496}, avg_fitness: 0.1070
+Selected pop: [15, 63]
+Crossover finished.
+Replacement(82, fitness: 0.0888) finished.
+Iter: 106
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1572}, avg_fitness: 0.1062
+Selected pop: [96, 91]
+Crossover finished.
+Replacement(101, fitness: 0.0856) finished.
+Iter: 107
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.1618}, avg_fitness: 0.1071
+Selected pop: 89
+Mutation finished.
+Replacement(89, fitness: 0.0914) finished.
+Iter: 108
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1578}, avg_fitness: 0.1063
+Selected pop: [109, 107]
+Crossover finished.
+Replacement(82, fitness: 0.0856) finished.
+Iter: 109
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.159}, avg_fitness: 0.1069
+Selected pop: [0, 88]
+Crossover finished.
+Replacement(109, fitness: 0.0928) finished.
+Iter: 110
+Best_fit: {'pop': 7, 'train_loss': 2.301, 'train_acc': 0.1646, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1070
+Selected pop: [67, 73]
+Crossover finished.
+Replacement(70, fitness: 0.0922) finished.
+Iter: 111
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1556}, avg_fitness: 0.1070
+Selected pop: [63, 7]
+Crossover finished.
+Replacement(36, fitness: 0.0936) finished.
+Iter: 112
+Best_fit: {'pop': 7, 'train_loss': 2.3035, 'train_acc': 0.1516}, avg_fitness: 0.1070
+Selected pop: 2
+Mutation finished.
+Replacement(36, fitness: 0.0882) finished.
+Iter: 113
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.1668}, avg_fitness: 0.1066
+Selected pop: 67
+Mutation finished.
+Replacement(95, fitness: 0.0940) finished.
+Iter: 114
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.154}, avg_fitness: 0.1060
+Selected pop: 12
+Mutation finished.
+Replacement(25, fitness: 0.0936) finished.
+Iter: 115
+Best_fit: {'pop': 7, 'train_loss': 2.3023, 'train_acc': 0.1554}, avg_fitness: 0.1062
+Selected pop: 20
+Mutation finished.
+Replacement(25, fitness: 0.0908) finished.
+Iter: 116
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1602}, avg_fitness: 0.1069
+Selected pop: 11
+Mutation finished.
+Replacement(25, fitness: 0.0956) finished.
+Iter: 117
+Best_fit: {'pop': 7, 'train_loss': 2.3014, 'train_acc': 0.1554}, avg_fitness: 0.1070
+Selected pop: [108, 14]
+Crossover finished.
+Replacement(103, fitness: 0.0920) finished.
+Iter: 118
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1674}, avg_fitness: 0.1074
+Selected pop: [50, 29]
+Crossover finished.
+Replacement(103, fitness: 0.0892) finished.
+Iter: 119
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1634}, avg_fitness: 0.1071
+Selected pop: [41, 68]
+Crossover finished.
+Replacement(9, fitness: 0.0918) finished.
+Iter: 120
+Best_fit: {'pop': 7, 'train_loss': 2.3012, 'train_acc': 0.161, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1065
+Selected pop: [39, 60]
+Crossover finished.
+Replacement(93, fitness: 0.0920) finished.
+Iter: 121
+Best_fit: {'pop': 7, 'train_loss': 2.3013, 'train_acc': 0.1672}, avg_fitness: 0.1073
+Selected pop: 11
+Mutation finished.
+Replacement(14, fitness: 0.0926) finished.
+Iter: 122
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.1578}, avg_fitness: 0.1074
+Selected pop: 48
+Mutation finished.
+Replacement(52, fitness: 0.0914) finished.
+Iter: 123
+Best_fit: {'pop': 7, 'train_loss': 2.3031, 'train_acc': 0.15}, avg_fitness: 0.1069
+Selected pop: [27, 81]
+Crossover finished.
+Replacement(52, fitness: 0.0928) finished.
+Iter: 124
+Best_fit: {'pop': 7, 'train_loss': 2.301, 'train_acc': 0.1644}, avg_fitness: 0.1066
+Selected pop: [107, 68]
+Crossover finished.
+Replacement(12, fitness: 0.0900) finished.
+Iter: 125
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1576}, avg_fitness: 0.1071
+Selected pop: [27, 105]
+Crossover finished.
+Replacement(52, fitness: 0.0928) finished.
+Iter: 126
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.1588}, avg_fitness: 0.1066
+Selected pop: [66, 84]
+Crossover finished.
+Replacement(5, fitness: 0.0954) finished.
+Iter: 127
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1606}, avg_fitness: 0.1073
+Selected pop: 18
+Mutation finished.
+Replacement(101, fitness: 0.0918) finished.
+Iter: 128
+Best_fit: {'pop': 7, 'train_loss': 2.3011, 'train_acc': 0.1576}, avg_fitness: 0.1062
+Selected pop: 50
+Mutation finished.
+Replacement(66, fitness: 0.0918) finished.
+Iter: 129
+Best_fit: {'pop': 7, 'train_loss': 2.3042, 'train_acc': 0.1536}, avg_fitness: 0.1067
+Selected pop: [106, 6]
+Crossover finished.
+Replacement(4, fitness: 0.0900) finished.
+Iter: 130
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.1632, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1072
+Selected pop: [52, 110]
+Crossover finished.
+Replacement(0, fitness: 0.0940) finished.
+Iter: 131
+Best_fit: {'pop': 7, 'train_loss': 2.3016, 'train_acc': 0.1656}, avg_fitness: 0.1073
+Selected pop: [5, 62]
+Crossover finished.
+Replacement(101, fitness: 0.0904) finished.
+Iter: 132
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1606}, avg_fitness: 0.1074
+Selected pop: 24
+Mutation finished.
+Replacement(112, fitness: 0.0946) finished.
+Iter: 133
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1646}, avg_fitness: 0.1076
+Selected pop: [32, 8]
+Crossover finished.
+Replacement(32, fitness: 0.0966) finished.
+Iter: 134
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1528}, avg_fitness: 0.1073
+Selected pop: 72
+Mutation finished.
+Replacement(41, fitness: 0.0942) finished.
+Iter: 135
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1586}, avg_fitness: 0.1075
+Selected pop: [78, 69]
+Crossover finished.
+Replacement(41, fitness: 0.0850) finished.
+Iter: 136
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.152}, avg_fitness: 0.1060
+Selected pop: [17, 14]
+Crossover finished.
+Replacement(41, fitness: 0.0838) finished.
+Iter: 137
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1606}, avg_fitness: 0.1067
+Selected pop: 111
+Mutation finished.
+Replacement(63, fitness: 0.0926) finished.
+Iter: 138
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.1644}, avg_fitness: 0.1074
+Selected pop: 70
+Mutation finished.
+Replacement(38, fitness: 0.0946) finished.
+Iter: 139
+Best_fit: {'pop': 7, 'train_loss': 2.3038, 'train_acc': 0.1468}, avg_fitness: 0.1073
+Selected pop: 69
+Mutation finished.
+Replacement(79, fitness: 0.0924) finished.
+Iter: 140
+Best_fit: {'pop': 7, 'train_loss': 2.3014, 'train_acc': 0.1648, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1075
+Selected pop: [72, 118]
+Crossover finished.
+Replacement(109, fitness: 0.0928) finished.
+Iter: 141
+Best_fit: {'pop': 7, 'train_loss': 2.3013, 'train_acc': 0.1632}, avg_fitness: 0.1073
+Selected pop: 7
+Mutation finished.
+Replacement(27, fitness: 0.0886) finished.
+Iter: 142
+Best_fit: {'pop': 7, 'train_loss': 2.3031, 'train_acc': 0.1526}, avg_fitness: 0.1070
+Selected pop: [67, 62]
+Crossover finished.
+Replacement(31, fitness: 0.0926) finished.
+Iter: 143
+Best_fit: {'pop': 7, 'train_loss': 2.3013, 'train_acc': 0.1578}, avg_fitness: 0.1075
+Selected pop: [3, 23]
+Crossover finished.
+Replacement(63, fitness: 0.0936) finished.
+Iter: 144
+Best_fit: {'pop': 7, 'train_loss': 2.3049, 'train_acc': 0.1454}, avg_fitness: 0.1066
+Selected pop: [7, 117]
+Crossover finished.
+Replacement(15, fitness: 0.0892) finished.
+Iter: 145
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.1584}, avg_fitness: 0.1080
+Selected pop: 7
+Mutation finished.
+Replacement(89, fitness: 0.0936) finished.
+Iter: 146
+Best_fit: {'pop': 7, 'train_loss': 2.3006, 'train_acc': 0.1682}, avg_fitness: 0.1076
+Selected pop: [43, 1]
+Crossover finished.
+Replacement(15, fitness: 0.0874) finished.
+Iter: 147
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.158}, avg_fitness: 0.1076
+Selected pop: [39, 53]
+Crossover finished.
+Replacement(90, fitness: 0.0926) finished.
+Iter: 148
+Best_fit: {'pop': 7, 'train_loss': 2.3033, 'train_acc': 0.168}, avg_fitness: 0.1081
+Selected pop: [107, 100]
+Crossover finished.
+Replacement(63, fitness: 0.0900) finished.
+Iter: 149
+Best_fit: {'pop': 7, 'train_loss': 2.3002, 'train_acc': 0.163}, avg_fitness: 0.1076
+Selected pop: 115
+Mutation finished.
+Replacement(27, fitness: 0.0924) finished.
+Iter: 150
+Best_fit: {'pop': 7, 'train_loss': 2.303, 'train_acc': 0.1562, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1082
+Selected pop: 9
+Mutation finished.
+Replacement(14, fitness: 0.0970) finished.
+Iter: 151
+Best_fit: {'pop': 7, 'train_loss': 2.2999, 'train_acc': 0.169}, avg_fitness: 0.1091
+Selected pop: [67, 44]
+Crossover finished.
+Replacement(55, fitness: 0.0930) finished.
+Iter: 152
+Best_fit: {'pop': 7, 'train_loss': 2.3032, 'train_acc': 0.154}, avg_fitness: 0.1074
+Selected pop: [93, 4]
+Crossover finished.
+Replacement(39, fitness: 0.0948) finished.
+Iter: 153
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1612}, avg_fitness: 0.1090
+Selected pop: [41, 7]
+Crossover finished.
+Replacement(53, fitness: 0.0946) finished.
+Iter: 154
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.1572}, avg_fitness: 0.1077
+Selected pop: [81, 54]
+Crossover finished.
+Replacement(61, fitness: 0.0940) finished.
+Iter: 155
+Best_fit: {'pop': 7, 'train_loss': 2.3017, 'train_acc': 0.1606}, avg_fitness: 0.1075
+Selected pop: [48, 26]
+Crossover finished.
+Replacement(61, fitness: 0.0912) finished.
+Iter: 156
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1566}, avg_fitness: 0.1080
+Selected pop: 51
+Mutation finished.
+Replacement(108, fitness: 0.0912) finished.
+Iter: 157
+Best_fit: {'pop': 7, 'train_loss': 2.3017, 'train_acc': 0.1638}, avg_fitness: 0.1087
+Selected pop: [67, 82]
+Crossover finished.
+Replacement(43, fitness: 0.0928) finished.
+Iter: 158
+Best_fit: {'pop': 61, 'train_loss': 2.3009, 'train_acc': 0.159}, avg_fitness: 0.1088
+Selected pop: 8
+Mutation finished.
+Replacement(78, fitness: 0.0966) finished.
+Iter: 159
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.162}, avg_fitness: 0.1076
+Selected pop: 47
+Mutation finished.
+Replacement(10, fitness: 0.0928) finished.
+Iter: 160
+Best_fit: {'pop': 7, 'train_loss': 2.3035, 'train_acc': 0.1568, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1082
+Selected pop: [96, 7]
+Crossover finished.
+Replacement(73, fitness: 0.0946) finished.
+Iter: 161
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.1554}, avg_fitness: 0.1078
+Selected pop: [32, 47]
+Crossover finished.
+Replacement(73, fitness: 0.0844) finished.
+Iter: 162
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.1528}, avg_fitness: 0.1087
+Selected pop: 89
+Mutation finished.
+Replacement(2, fitness: 0.0950) finished.
+Iter: 163
+Best_fit: {'pop': 7, 'train_loss': 2.3016, 'train_acc': 0.1634}, avg_fitness: 0.1083
+Selected pop: 17
+Mutation finished.
+Replacement(90, fitness: 0.0874) finished.
+Iter: 164
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1668}, avg_fitness: 0.1082
+Selected pop: [108, 23]
+Crossover finished.
+Replacement(2, fitness: 0.0954) finished.
+Iter: 165
+Best_fit: {'pop': 7, 'train_loss': 2.3009, 'train_acc': 0.1642}, avg_fitness: 0.1099
+Selected pop: [73, 88]
+Crossover finished.
+Replacement(20, fitness: 0.0920) finished.
+Iter: 166
+Best_fit: {'pop': 61, 'train_loss': 2.3004, 'train_acc': 0.1598}, avg_fitness: 0.1079
+Selected pop: [11, 23]
+Crossover finished.
+Replacement(97, fitness: 0.0924) finished.
+Iter: 167
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.1658}, avg_fitness: 0.1088
+Selected pop: 74
+Mutation finished.
+Replacement(90, fitness: 0.0854) finished.
+Iter: 168
+Best_fit: {'pop': 7, 'train_loss': 2.3042, 'train_acc': 0.157}, avg_fitness: 0.1081
+Selected pop: [16, 72]
+Crossover finished.
+Replacement(90, fitness: 0.0894) finished.
+Iter: 169
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1576}, avg_fitness: 0.1075
+Selected pop: [63, 24]
+Crossover finished.
+Replacement(12, fitness: 0.0880) finished.
+Iter: 170
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1598, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1084
+Selected pop: 103
+Mutation finished.
+Replacement(12, fitness: 0.0758) finished.
+Iter: 171
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1632}, avg_fitness: 0.1083
+Selected pop: [10, 90]
+Crossover finished.
+Replacement(20, fitness: 0.0896) finished.
+Iter: 172
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1588}, avg_fitness: 0.1083
+Selected pop: [57, 38]
+Crossover finished.
+Replacement(20, fitness: 0.0926) finished.
+Iter: 173
+Best_fit: {'pop': 61, 'train_loss': 2.3009, 'train_acc': 0.1558}, avg_fitness: 0.1087
+Selected pop: 42
+Mutation finished.
+Replacement(90, fitness: 0.0838) finished.
+Iter: 174
+Best_fit: {'pop': 7, 'train_loss': 2.3036, 'train_acc': 0.1588}, avg_fitness: 0.1085
+Selected pop: [111, 106]
+Crossover finished.
+Replacement(90, fitness: 0.0732) finished.
+Iter: 175
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.156}, avg_fitness: 0.1087
+Selected pop: [46, 110]
+Crossover finished.
+Replacement(90, fitness: 0.0918) finished.
+Iter: 176
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.1656}, avg_fitness: 0.1078
+Selected pop: 103
+Mutation finished.
+Replacement(56, fitness: 0.0890) finished.
+Iter: 177
+Best_fit: {'pop': 61, 'train_loss': 2.3012, 'train_acc': 0.1624}, avg_fitness: 0.1086
+Selected pop: [46, 56]
+Crossover finished.
+Replacement(106, fitness: 0.0912) finished.
+Iter: 178
+Best_fit: {'pop': 61, 'train_loss': 2.3004, 'train_acc': 0.1652}, avg_fitness: 0.1090
+Selected pop: [59, 93]
+Crossover finished.
+Replacement(95, fitness: 0.0928) finished.
+Iter: 179
+Best_fit: {'pop': 7, 'train_loss': 2.3005, 'train_acc': 0.1636}, avg_fitness: 0.1085
+Selected pop: [47, 2]
+Crossover finished.
+Replacement(106, fitness: 0.0910) finished.
+Iter: 180
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.1634, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1083
+Selected pop: 76
+Mutation finished.
+Replacement(56, fitness: 0.0904) finished.
+Iter: 181
+Best_fit: {'pop': 7, 'train_loss': 2.304, 'train_acc': 0.1562}, avg_fitness: 0.1086
+Selected pop: [91, 57]
+Crossover finished.
+Replacement(10, fitness: 0.0928) finished.
+Iter: 182
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.1548}, avg_fitness: 0.1083
+Selected pop: [113, 88]
+Crossover finished.
+Replacement(95, fitness: 0.0958) finished.
+Iter: 183
+Best_fit: {'pop': 7, 'train_loss': 2.3012, 'train_acc': 0.1732}, avg_fitness: 0.1088
+Selected pop: [99, 92]
+Crossover finished.
+Replacement(12, fitness: 0.0908) finished.
+Iter: 184
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1586}, avg_fitness: 0.1096
+Selected pop: 86
+Mutation finished.
+Replacement(102, fitness: 0.0938) finished.
+Iter: 185
+Best_fit: {'pop': 7, 'train_loss': 2.3002, 'train_acc': 0.1698}, avg_fitness: 0.1083
+Selected pop: [92, 76]
+Crossover finished.
+Replacement(102, fitness: 0.0830) finished.
+Iter: 186
+Best_fit: {'pop': 61, 'train_loss': 2.3004, 'train_acc': 0.1608}, avg_fitness: 0.1090
+Selected pop: [23, 98]
+Crossover finished.
+Replacement(95, fitness: 0.0956) finished.
+Iter: 187
+Best_fit: {'pop': 61, 'train_loss': 2.3013, 'train_acc': 0.1522}, avg_fitness: 0.1081
+Selected pop: 57
+Mutation finished.
+Replacement(21, fitness: 0.0940) finished.
+Iter: 188
+Best_fit: {'pop': 7, 'train_loss': 2.304, 'train_acc': 0.1538}, avg_fitness: 0.1083
+Selected pop: [49, 31]
+Crossover finished.
+Replacement(95, fitness: 0.0900) finished.
+Iter: 189
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.1598}, avg_fitness: 0.1089
+Selected pop: [100, 3]
+Crossover finished.
+Replacement(95, fitness: 0.0852) finished.
+Iter: 190
+Best_fit: {'pop': 7, 'train_loss': 2.3014, 'train_acc': 0.1612, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1090
+Selected pop: [119, 110]
+Crossover finished.
+Replacement(26, fitness: 0.0964) finished.
+Iter: 191
+Best_fit: {'pop': 7, 'train_loss': 2.3013, 'train_acc': 0.1604}, avg_fitness: 0.1092
+Selected pop: [9, 59]
+Crossover finished.
+Replacement(86, fitness: 0.0920) finished.
+Iter: 192
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.1582}, avg_fitness: 0.1091
+Selected pop: [41, 48]
+Crossover finished.
+Replacement(95, fitness: 0.0924) finished.
+Iter: 193
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1586}, avg_fitness: 0.1090
+Selected pop: [20, 19]
+Crossover finished.
+Replacement(36, fitness: 0.0958) finished.
+Iter: 194
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1636}, avg_fitness: 0.1093
+Selected pop: [24, 75]
+Crossover finished.
+Replacement(43, fitness: 0.0926) finished.
+Iter: 195
+Best_fit: {'pop': 61, 'train_loss': 2.301, 'train_acc': 0.151}, avg_fitness: 0.1085
+Selected pop: 106
+Mutation finished.
+Replacement(33, fitness: 0.0934) finished.
+Iter: 196
+Best_fit: {'pop': 7, 'train_loss': 2.3004, 'train_acc': 0.1674}, avg_fitness: 0.1096
+Selected pop: [36, 110]
+Crossover finished.
+Replacement(15, fitness: 0.0922) finished.
+Iter: 197
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1524}, avg_fitness: 0.1089
+Selected pop: [80, 88]
+Crossover finished.
+Replacement(15, fitness: 0.0946) finished.
+Iter: 198
+Best_fit: {'pop': 7, 'train_loss': 2.3012, 'train_acc': 0.163}, avg_fitness: 0.1088
+Selected pop: [44, 88]
+Crossover finished.
+Replacement(36, fitness: 0.0910) finished.
+Iter: 199
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1622}, avg_fitness: 0.1081
+Selected pop: [16, 81]
+Crossover finished.
+Replacement(33, fitness: 0.0948) finished.
+Iter: 200
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.162, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1074
+Selected pop: [83, 100]
+Crossover finished.
+Replacement(33, fitness: 0.0776) finished.
+Iter: 201
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.157}, avg_fitness: 0.1091
+Selected pop: 85
+Mutation finished.
+Replacement(2, fitness: 0.0924) finished.
+Iter: 202
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.1598}, avg_fitness: 0.1092
+Selected pop: 98
+Mutation finished.
+Replacement(21, fitness: 0.0956) finished.
+Iter: 203
+Best_fit: {'pop': 7, 'train_loss': 2.3008, 'train_acc': 0.1616}, avg_fitness: 0.1089
+Selected pop: [25, 118]
+Crossover finished.
+Replacement(36, fitness: 0.0946) finished.
+Iter: 204
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.158}, avg_fitness: 0.1086
+Selected pop: [118, 42]
+Crossover finished.
+Replacement(36, fitness: 0.0918) finished.
+Iter: 205
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.163}, avg_fitness: 0.1069
+Selected pop: [117, 12]
+Crossover finished.
+Replacement(29, fitness: 0.0860) finished.
+Iter: 206
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1648}, avg_fitness: 0.1092
+Selected pop: [91, 62]
+Crossover finished.
+Replacement(119, fitness: 0.0952) finished.
+Iter: 207
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1588}, avg_fitness: 0.1082
+Selected pop: 61
+Mutation finished.
+Replacement(33, fitness: 0.0918) finished.
+Iter: 208
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1582}, avg_fitness: 0.1094
+Selected pop: [89, 55]
+Crossover finished.
+Replacement(112, fitness: 0.0964) finished.
+Iter: 209
+Best_fit: {'pop': 7, 'train_loss': 2.3035, 'train_acc': 0.1594}, avg_fitness: 0.1094
+Selected pop: [109, 79]
+Crossover finished.
+Replacement(112, fitness: 0.0898) finished.
+Iter: 210
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.1668, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1089
+Selected pop: [48, 15]
+Crossover finished.
+Replacement(36, fitness: 0.0956) finished.
+Iter: 211
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.1642}, avg_fitness: 0.1088
+Selected pop: [9, 46]
+Crossover finished.
+Replacement(82, fitness: 0.0938) finished.
+Iter: 212
+Best_fit: {'pop': 7, 'train_loss': 2.3046, 'train_acc': 0.1578}, avg_fitness: 0.1080
+Selected pop: [91, 52]
+Crossover finished.
+Replacement(82, fitness: 0.0888) finished.
+Iter: 213
+Best_fit: {'pop': 61, 'train_loss': 2.3009, 'train_acc': 0.162}, avg_fitness: 0.1100
+Selected pop: [68, 49]
+Crossover finished.
+Replacement(64, fitness: 0.0892) finished.
+Iter: 214
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1608}, avg_fitness: 0.1087
+Selected pop: [75, 27]
+Crossover finished.
+Replacement(72, fitness: 0.0954) finished.
+Iter: 215
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1626}, avg_fitness: 0.1093
+Selected pop: [60, 42]
+Crossover finished.
+Replacement(72, fitness: 0.0708) finished.
+Iter: 216
+Best_fit: {'pop': 7, 'train_loss': 2.3004, 'train_acc': 0.1664}, avg_fitness: 0.1087
+Selected pop: [68, 58]
+Crossover finished.
+Replacement(95, fitness: 0.0894) finished.
+Iter: 217
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1582}, avg_fitness: 0.1087
+Selected pop: 38
+Mutation finished.
+Replacement(12, fitness: 0.0928) finished.
+Iter: 218
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.161}, avg_fitness: 0.1097
+Selected pop: [60, 79]
+Crossover finished.
+Replacement(103, fitness: 0.0918) finished.
+Iter: 219
+Best_fit: {'pop': 61, 'train_loss': 2.3003, 'train_acc': 0.1682}, avg_fitness: 0.1085
+Selected pop: 51
+Mutation finished.
+Replacement(82, fitness: 0.0940) finished.
+Iter: 220
+Best_fit: {'pop': 61, 'train_loss': 2.3009, 'train_acc': 0.1556, 'test_loss': 2.3008, 'test_acc': 0.1668}, avg_fitness: 0.1087
+Selected pop: [59, 66]
+Crossover finished.
+Replacement(109, fitness: 0.0962) finished.
+Iter: 221
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.1574}, avg_fitness: 0.1082
+Selected pop: [90, 7]
+Crossover finished.
+Replacement(19, fitness: 0.0926) finished.
+Iter: 222
+Best_fit: {'pop': 7, 'train_loss': 2.3008, 'train_acc': 0.1596}, avg_fitness: 0.1101
+Selected pop: [70, 113]
+Crossover finished.
+Replacement(78, fitness: 0.0922) finished.
+Iter: 223
+Best_fit: {'pop': 61, 'train_loss': 2.3001, 'train_acc': 0.1626}, avg_fitness: 0.1086
+Selected pop: 18
+Mutation finished.
+Replacement(21, fitness: 0.0888) finished.
+Iter: 224
+Best_fit: {'pop': 7, 'train_loss': 2.301, 'train_acc': 0.1694}, avg_fitness: 0.1093
+Selected pop: [119, 79]
+Crossover finished.
+Replacement(91, fitness: 0.0942) finished.
+Iter: 225
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.164}, avg_fitness: 0.1094
+Selected pop: [7, 47]
+Crossover finished.
+Replacement(12, fitness: 0.0914) finished.
+Iter: 226
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.156}, avg_fitness: 0.1095
+Selected pop: [25, 80]
+Crossover finished.
+Replacement(11, fitness: 0.0918) finished.
+Iter: 227
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.166}, avg_fitness: 0.1102
+Selected pop: 90
+Mutation finished.
+Replacement(112, fitness: 0.0894) finished.
+Iter: 228
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.157}, avg_fitness: 0.1094
+Selected pop: 0
+Mutation finished.
+Replacement(112, fitness: 0.0886) finished.
+Iter: 229
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.16}, avg_fitness: 0.1097
+Selected pop: [68, 41]
+Crossover finished.
+Replacement(86, fitness: 0.0910) finished.
+Iter: 230
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1542, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1090
+Selected pop: 95
+Mutation finished.
+Replacement(86, fitness: 0.0936) finished.
+Iter: 231
+Best_fit: {'pop': 7, 'train_loss': 2.3001, 'train_acc': 0.1702}, avg_fitness: 0.1102
+Selected pop: [7, 18]
+Crossover finished.
+Replacement(86, fitness: 0.0920) finished.
+Iter: 232
+Best_fit: {'pop': 61, 'train_loss': 2.3012, 'train_acc': 0.1522}, avg_fitness: 0.1099
+Selected pop: [107, 36]
+Crossover finished.
+Replacement(29, fitness: 0.0954) finished.
+Iter: 233
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.167}, avg_fitness: 0.1101
+Selected pop: [112, 42]
+Crossover finished.
+Replacement(33, fitness: 0.0944) finished.
+Iter: 234
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1626}, avg_fitness: 0.1097
+Selected pop: [63, 42]
+Crossover finished.
+Replacement(71, fitness: 0.0960) finished.
+Iter: 235
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.157}, avg_fitness: 0.1095
+Selected pop: 95
+Mutation finished.
+Replacement(52, fitness: 0.0916) finished.
+Iter: 236
+Best_fit: {'pop': 7, 'train_loss': 2.3006, 'train_acc': 0.1646}, avg_fitness: 0.1101
+Selected pop: [92, 117]
+Crossover finished.
+Replacement(18, fitness: 0.0944) finished.
+Iter: 237
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1572}, avg_fitness: 0.1102
+Selected pop: [102, 66]
+Crossover finished.
+Replacement(95, fitness: 0.0900) finished.
+Iter: 238
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.1548}, avg_fitness: 0.1091
+Selected pop: [109, 116]
+Crossover finished.
+Replacement(52, fitness: 0.0954) finished.
+Iter: 239
+Best_fit: {'pop': 7, 'train_loss': 2.3029, 'train_acc': 0.1686}, avg_fitness: 0.1091
+Selected pop: [91, 71]
+Crossover finished.
+Replacement(15, fitness: 0.0936) finished.
+Iter: 240
+Best_fit: {'pop': 7, 'train_loss': 2.3044, 'train_acc': 0.1586, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1098
+Selected pop: [50, 12]
+Crossover finished.
+Replacement(94, fitness: 0.0922) finished.
+Iter: 241
+Best_fit: {'pop': 7, 'train_loss': 2.3003, 'train_acc': 0.1622}, avg_fitness: 0.1092
+Selected pop: 8
+Mutation finished.
+Replacement(94, fitness: 0.0690) finished.
+Iter: 242
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.1636}, avg_fitness: 0.1098
+Selected pop: 84
+Mutation finished.
+Replacement(56, fitness: 0.0966) finished.
+Iter: 243
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1638}, avg_fitness: 0.1092
+Selected pop: [59, 7]
+Crossover finished.
+Replacement(52, fitness: 0.0918) finished.
+Iter: 244
+Best_fit: {'pop': 7, 'train_loss': 2.3024, 'train_acc': 0.1554}, avg_fitness: 0.1106
+Selected pop: [83, 59]
+Crossover finished.
+Replacement(41, fitness: 0.0946) finished.
+Iter: 245
+Best_fit: {'pop': 7, 'train_loss': 2.2999, 'train_acc': 0.1694}, avg_fitness: 0.1107
+Selected pop: 109
+Mutation finished.
+Replacement(74, fitness: 0.0936) finished.
+Iter: 246
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.167}, avg_fitness: 0.1108
+Selected pop: [111, 14]
+Crossover finished.
+Replacement(18, fitness: 0.0940) finished.
+Iter: 247
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1552}, avg_fitness: 0.1102
+Selected pop: [14, 95]
+Crossover finished.
+Replacement(17, fitness: 0.0964) finished.
+Iter: 248
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1614}, avg_fitness: 0.1111
+Selected pop: [116, 82]
+Crossover finished.
+Replacement(110, fitness: 0.0952) finished.
+Iter: 249
+Best_fit: {'pop': 7, 'train_loss': 2.3033, 'train_acc': 0.1576}, avg_fitness: 0.1099
+Selected pop: [21, 104]
+Crossover finished.
+Replacement(2, fitness: 0.0922) finished.
+Iter: 250
+Best_fit: {'pop': 61, 'train_loss': 2.3009, 'train_acc': 0.1558, 'test_loss': 2.3008, 'test_acc': 0.1668}, avg_fitness: 0.1106
+Selected pop: [37, 91]
+Crossover finished.
+Replacement(64, fitness: 0.0966) finished.
+Iter: 251
+Best_fit: {'pop': 7, 'train_loss': 2.3011, 'train_acc': 0.1666}, avg_fitness: 0.1103
+Selected pop: [10, 44]
+Crossover finished.
+Replacement(74, fitness: 0.0940) finished.
+Iter: 252
+Best_fit: {'pop': 7, 'train_loss': 2.3013, 'train_acc': 0.1638}, avg_fitness: 0.1103
+Selected pop: [82, 71]
+Crossover finished.
+Replacement(5, fitness: 0.0958) finished.
+Iter: 253
+Best_fit: {'pop': 61, 'train_loss': 2.3002, 'train_acc': 0.1734}, avg_fitness: 0.1110
+Selected pop: [31, 84]
+Crossover finished.
+Replacement(43, fitness: 0.0946) finished.
+Iter: 254
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1564}, avg_fitness: 0.1121
+Selected pop: [69, 115]
+Crossover finished.
+Replacement(51, fitness: 0.0928) finished.
+Iter: 255
+Best_fit: {'pop': 7, 'train_loss': 2.3031, 'train_acc': 0.1584}, avg_fitness: 0.1100
+Selected pop: [92, 4]
+Crossover finished.
+Replacement(55, fitness: 0.0956) finished.
+Iter: 256
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.1626}, avg_fitness: 0.1104
+Selected pop: [29, 39]
+Crossover finished.
+Replacement(55, fitness: 0.0710) finished.
+Iter: 257
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.157}, avg_fitness: 0.1103
+Selected pop: [80, 46]
+Crossover finished.
+Replacement(55, fitness: 0.0886) finished.
+Iter: 258
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.159}, avg_fitness: 0.1109
+Selected pop: [24, 93]
+Crossover finished.
+Replacement(55, fitness: 0.0938) finished.
+Iter: 259
+Best_fit: {'pop': 7, 'train_loss': 2.3039, 'train_acc': 0.1574}, avg_fitness: 0.1109
+Selected pop: [109, 36]
+Crossover finished.
+Replacement(64, fitness: 0.0906) finished.
+Iter: 260
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.159, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1116
+Selected pop: [10, 21]
+Crossover finished.
+Replacement(53, fitness: 0.0948) finished.
+Iter: 261
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1638}, avg_fitness: 0.1110
+Selected pop: [0, 42]
+Crossover finished.
+Replacement(38, fitness: 0.0942) finished.
+Iter: 262
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.1584}, avg_fitness: 0.1111
+Selected pop: [23, 67]
+Crossover finished.
+Replacement(55, fitness: 0.0914) finished.
+Iter: 263
+Best_fit: {'pop': 7, 'train_loss': 2.303, 'train_acc': 0.1606}, avg_fitness: 0.1109
+Selected pop: [74, 54]
+Crossover finished.
+Replacement(55, fitness: 0.0890) finished.
+Iter: 264
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1612}, avg_fitness: 0.1120
+Selected pop: [46, 13]
+Crossover finished.
+Replacement(55, fitness: 0.0854) finished.
+Iter: 265
+Best_fit: {'pop': 61, 'train_loss': 2.301, 'train_acc': 0.158}, avg_fitness: 0.1125
+Selected pop: [14, 118]
+Crossover finished.
+Replacement(53, fitness: 0.0920) finished.
+Iter: 266
+Best_fit: {'pop': 7, 'train_loss': 2.301, 'train_acc': 0.1634}, avg_fitness: 0.1101
+Selected pop: [19, 34]
+Crossover finished.
+Replacement(8, fitness: 0.0944) finished.
+Iter: 267
+Best_fit: {'pop': 7, 'train_loss': 2.3016, 'train_acc': 0.1554}, avg_fitness: 0.1107
+Selected pop: [86, 94]
+Crossover finished.
+Replacement(43, fitness: 0.0928) finished.
+Iter: 268
+Best_fit: {'pop': 61, 'train_loss': 2.3009, 'train_acc': 0.1562}, avg_fitness: 0.1120
+Selected pop: [19, 108]
+Crossover finished.
+Replacement(18, fitness: 0.0946) finished.
+Iter: 269
+Best_fit: {'pop': 61, 'train_loss': 2.3003, 'train_acc': 0.1658}, avg_fitness: 0.1116
+Selected pop: [62, 32]
+Crossover finished.
+Replacement(101, fitness: 0.0958) finished.
+Iter: 270
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1588, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1120
+Selected pop: 52
+Mutation finished.
+Replacement(82, fitness: 0.0946) finished.
+Iter: 271
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.164}, avg_fitness: 0.1123
+Selected pop: [91, 21]
+Crossover finished.
+Replacement(82, fitness: 0.0520) finished.
+Iter: 272
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1556}, avg_fitness: 0.1112
+Selected pop: 24
+Mutation finished.
+Replacement(73, fitness: 0.0970) finished.
+Iter: 273
+Best_fit: {'pop': 7, 'train_loss': 2.3028, 'train_acc': 0.1636}, avg_fitness: 0.1117
+Selected pop: 10
+Mutation finished.
+Replacement(28, fitness: 0.0978) finished.
+Iter: 274
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1604}, avg_fitness: 0.1115
+Selected pop: [52, 24]
+Crossover finished.
+Replacement(73, fitness: 0.0888) finished.
+Iter: 275
+Best_fit: {'pop': 61, 'train_loss': 2.3003, 'train_acc': 0.1674}, avg_fitness: 0.1116
+Selected pop: [80, 109]
+Crossover finished.
+Replacement(29, fitness: 0.0968) finished.
+Iter: 276
+Best_fit: {'pop': 61, 'train_loss': 2.3001, 'train_acc': 0.168}, avg_fitness: 0.1114
+Selected pop: [62, 75]
+Crossover finished.
+Replacement(29, fitness: 0.0846) finished.
+Iter: 277
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.1586}, avg_fitness: 0.1116
+Selected pop: 16
+Mutation finished.
+Replacement(4, fitness: 0.0934) finished.
+Iter: 278
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1618}, avg_fitness: 0.1113
+Selected pop: [100, 0]
+Crossover finished.
+Replacement(28, fitness: 0.0918) finished.
+Iter: 279
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1716}, avg_fitness: 0.1126
+Selected pop: [111, 101]
+Crossover finished.
+Replacement(67, fitness: 0.0918) finished.
+Iter: 280
+Best_fit: {'pop': 7, 'train_loss': 2.3036, 'train_acc': 0.1602, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1124
+Selected pop: [62, 66]
+Crossover finished.
+Replacement(67, fitness: 0.0906) finished.
+Iter: 281
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.1682}, avg_fitness: 0.1114
+Selected pop: [56, 108]
+Crossover finished.
+Replacement(69, fitness: 0.0964) finished.
+Iter: 282
+Best_fit: {'pop': 7, 'train_loss': 2.303, 'train_acc': 0.1586}, avg_fitness: 0.1122
+Selected pop: 103
+Mutation finished.
+Replacement(69, fitness: 0.0934) finished.
+Iter: 283
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1654}, avg_fitness: 0.1128
+Selected pop: [23, 80]
+Crossover finished.
+Replacement(69, fitness: 0.0920) finished.
+Iter: 284
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1554}, avg_fitness: 0.1120
+Selected pop: [46, 115]
+Crossover finished.
+Replacement(93, fitness: 0.0928) finished.
+Iter: 285
+Best_fit: {'pop': 61, 'train_loss': 2.3003, 'train_acc': 0.1674}, avg_fitness: 0.1124
+Selected pop: [24, 109]
+Crossover finished.
+Replacement(93, fitness: 0.0874) finished.
+Iter: 286
+Best_fit: {'pop': 7, 'train_loss': 2.3009, 'train_acc': 0.1662}, avg_fitness: 0.1114
+Selected pop: [67, 118]
+Crossover finished.
+Replacement(93, fitness: 0.0884) finished.
+Iter: 287
+Best_fit: {'pop': 7, 'train_loss': 2.3037, 'train_acc': 0.1528}, avg_fitness: 0.1126
+Selected pop: [34, 66]
+Crossover finished.
+Replacement(67, fitness: 0.0956) finished.
+Iter: 288
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.161}, avg_fitness: 0.1127
+Selected pop: [1, 110]
+Crossover finished.
+Replacement(35, fitness: 0.0952) finished.
+Iter: 289
+Best_fit: {'pop': 7, 'train_loss': 2.3023, 'train_acc': 0.1586}, avg_fitness: 0.1119
+Selected pop: [21, 30]
+Crossover finished.
+Replacement(35, fitness: 0.0938) finished.
+Iter: 290
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1646, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1123
+Selected pop: [116, 79]
+Crossover finished.
+Replacement(28, fitness: 0.0940) finished.
+Iter: 291
+Best_fit: {'pop': 7, 'train_loss': 2.3031, 'train_acc': 0.1548}, avg_fitness: 0.1124
+Selected pop: [43, 5]
+Crossover finished.
+Replacement(28, fitness: 0.0904) finished.
+Iter: 292
+Best_fit: {'pop': 61, 'train_loss': 2.3002, 'train_acc': 0.1684}, avg_fitness: 0.1116
+Selected pop: 111
+Mutation finished.
+Replacement(28, fitness: 0.0856) finished.
+Iter: 293
+Best_fit: {'pop': 61, 'train_loss': 2.3004, 'train_acc': 0.1628}, avg_fitness: 0.1132
+Selected pop: [22, 109]
+Crossover finished.
+Replacement(59, fitness: 0.0982) finished.
+Iter: 294
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.16}, avg_fitness: 0.1131
+Selected pop: 47
+Mutation finished.
+Replacement(4, fitness: 0.0948) finished.
+Iter: 295
+Best_fit: {'pop': 7, 'train_loss': 2.3014, 'train_acc': 0.1586}, avg_fitness: 0.1121
+Selected pop: 116
+Mutation finished.
+Replacement(82, fitness: 0.0946) finished.
+Iter: 296
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1618}, avg_fitness: 0.1132
+Selected pop: [30, 24]
+Crossover finished.
+Replacement(4, fitness: 0.0908) finished.
+Iter: 297
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1698}, avg_fitness: 0.1131
+Selected pop: 54
+Mutation finished.
+Replacement(58, fitness: 0.0964) finished.
+Iter: 298
+Best_fit: {'pop': 7, 'train_loss': 2.3031, 'train_acc': 0.1564}, avg_fitness: 0.1130
+Selected pop: [97, 74]
+Crossover finished.
+Replacement(58, fitness: 0.0950) finished.
+Iter: 299
+Best_fit: {'pop': 61, 'train_loss': 2.3009, 'train_acc': 0.1564}, avg_fitness: 0.1132
+Selected pop: [44, 38]
+Crossover finished.
+Replacement(35, fitness: 0.0942) finished.
+Iter: 300
+Best_fit: {'pop': 7, 'train_loss': 2.3015, 'train_acc': 0.1618, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1132
+Selected pop: 90
+Mutation finished.
+Replacement(106, fitness: 0.0974) finished.
+Iter: 301
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.1596}, avg_fitness: 0.1121
+Selected pop: 66
+Mutation finished.
+Replacement(93, fitness: 0.0942) finished.
+Iter: 302
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.1578}, avg_fitness: 0.1138
+Selected pop: [63, 55]
+Crossover finished.
+Replacement(106, fitness: 0.0932) finished.
+Iter: 303
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.16}, avg_fitness: 0.1134
+Selected pop: [91, 116]
+Crossover finished.
+Replacement(44, fitness: 0.0972) finished.
+Iter: 304
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.1672}, avg_fitness: 0.1129
+Selected pop: [73, 53]
+Crossover finished.
+Replacement(58, fitness: 0.0938) finished.
+Iter: 305
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1542}, avg_fitness: 0.1125
+Selected pop: [5, 75]
+Crossover finished.
+Replacement(89, fitness: 0.0914) finished.
+Iter: 306
+Best_fit: {'pop': 7, 'train_loss': 2.3025, 'train_acc': 0.1638}, avg_fitness: 0.1138
+Selected pop: 72
+Mutation finished.
+Replacement(56, fitness: 0.0950) finished.
+Iter: 307
+Best_fit: {'pop': 7, 'train_loss': 2.3013, 'train_acc': 0.1578}, avg_fitness: 0.1130
+Selected pop: [45, 73]
+Crossover finished.
+Replacement(89, fitness: 0.0910) finished.
+Iter: 308
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1626}, avg_fitness: 0.1142
+Selected pop: [14, 59]
+Crossover finished.
+Replacement(56, fitness: 0.0882) finished.
+Iter: 309
+Best_fit: {'pop': 61, 'train_loss': 2.3004, 'train_acc': 0.1652}, avg_fitness: 0.1133
+Selected pop: [60, 81]
+Crossover finished.
+Replacement(4, fitness: 0.0948) finished.
+Iter: 310
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1642, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1140
+Selected pop: [85, 29]
+Crossover finished.
+Replacement(44, fitness: 0.0960) finished.
+Iter: 311
+Best_fit: {'pop': 69, 'train_loss': 2.3013, 'train_acc': 0.1614}, avg_fitness: 0.1140
+Selected pop: [69, 91]
+Crossover finished.
+Replacement(2, fitness: 0.0960) finished.
+Iter: 312
+Best_fit: {'pop': 61, 'train_loss': 2.3009, 'train_acc': 0.1596}, avg_fitness: 0.1141
+Selected pop: 102
+Mutation finished.
+Replacement(2, fitness: 0.0922) finished.
+Iter: 313
+Best_fit: {'pop': 7, 'train_loss': 2.3027, 'train_acc': 0.164}, avg_fitness: 0.1132
+Selected pop: [76, 86]
+Crossover finished.
+Replacement(58, fitness: 0.0910) finished.
+Iter: 314
+Best_fit: {'pop': 7, 'train_loss': 2.3034, 'train_acc': 0.1576}, avg_fitness: 0.1133
+Selected pop: 41
+Mutation finished.
+Replacement(95, fitness: 0.0950) finished.
+Iter: 315
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.1618}, avg_fitness: 0.1129
+Selected pop: [48, 46]
+Crossover finished.
+Replacement(95, fitness: 0.0758) finished.
+Iter: 316
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.169}, avg_fitness: 0.1142
+Selected pop: [83, 51]
+Crossover finished.
+Replacement(95, fitness: 0.0914) finished.
+Iter: 317
+Best_fit: {'pop': 61, 'train_loss': 2.3004, 'train_acc': 0.163}, avg_fitness: 0.1133
+Selected pop: 50
+Mutation finished.
+Replacement(2, fitness: 0.0940) finished.
+Iter: 318
+Best_fit: {'pop': 7, 'train_loss': 2.3021, 'train_acc': 0.1594}, avg_fitness: 0.1133
+Selected pop: [76, 85]
+Crossover finished.
+Replacement(95, fitness: 0.0948) finished.
+Iter: 319
+Best_fit: {'pop': 7, 'train_loss': 2.3012, 'train_acc': 0.1618}, avg_fitness: 0.1131
+Selected pop: 93
+Mutation finished.
+Replacement(95, fitness: 0.0908) finished.
+Iter: 320
+Best_fit: {'pop': 69, 'train_loss': 2.3013, 'train_acc': 0.1588, 'test_loss': 2.3019, 'test_acc': 0.1483}, avg_fitness: 0.1138
+Selected pop: [63, 7]
+Crossover finished.
+Replacement(95, fitness: 0.0952) finished.
+Iter: 321
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1606}, avg_fitness: 0.1131
+Selected pop: 25
+Mutation finished.
+Replacement(95, fitness: 0.0938) finished.
+Iter: 322
+Best_fit: {'pop': 7, 'train_loss': 2.304, 'train_acc': 0.1614}, avg_fitness: 0.1135
+Selected pop: [33, 97]
+Crossover finished.
+Replacement(95, fitness: 0.0914) finished.
+Iter: 323
+Best_fit: {'pop': 61, 'train_loss': 2.3006, 'train_acc': 0.1634}, avg_fitness: 0.1133
+Selected pop: [111, 69]
+Crossover finished.
+Replacement(95, fitness: 0.0882) finished.
+Iter: 324
+Best_fit: {'pop': 7, 'train_loss': 2.3011, 'train_acc': 0.1574}, avg_fitness: 0.1128
+Selected pop: 117
+Mutation finished.
+Replacement(20, fitness: 0.0970) finished.
+Iter: 325
+Best_fit: {'pop': 7, 'train_loss': 2.3016, 'train_acc': 0.1598}, avg_fitness: 0.1141
+Selected pop: [58, 65]
+Crossover finished.
+Replacement(45, fitness: 0.0948) finished.
+Iter: 326
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1634}, avg_fitness: 0.1128
+Selected pop: [86, 112]
+Crossover finished.
+Replacement(45, fitness: 0.0922) finished.
+Iter: 327
+Best_fit: {'pop': 7, 'train_loss': 2.302, 'train_acc': 0.1612}, avg_fitness: 0.1129
+Selected pop: [115, 46]
+Crossover finished.
+Replacement(2, fitness: 0.0926) finished.
+Iter: 328
+Best_fit: {'pop': 7, 'train_loss': 2.3026, 'train_acc': 0.163}, avg_fitness: 0.1142
+Selected pop: [92, 86]
+Crossover finished.
+Replacement(45, fitness: 0.0944) finished.
+Iter: 329
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1568}, avg_fitness: 0.1142
+Selected pop: [81, 52]
+Crossover finished.
+Replacement(95, fitness: 0.0924) finished.
+Iter: 330
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.1638, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1144
+Selected pop: 45
+Mutation finished.
+Replacement(95, fitness: 0.0946) finished.
+Iter: 331
+Best_fit: {'pop': 7, 'train_loss': 2.3022, 'train_acc': 0.164}, avg_fitness: 0.1146
+Selected pop: [74, 5]
+Crossover finished.
+Replacement(108, fitness: 0.0946) finished.
+Iter: 332
+Best_fit: {'pop': 7, 'train_loss': 2.3019, 'train_acc': 0.1594}, avg_fitness: 0.1135
+Selected pop: 106
+Mutation finished.
+Replacement(95, fitness: 0.0958) finished.
+Iter: 333
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1558}, avg_fitness: 0.1143
+Selected pop: [29, 55]
+Crossover finished.
+Replacement(95, fitness: 0.0908) finished.
+Iter: 334
+Best_fit: {'pop': 61, 'train_loss': 2.3004, 'train_acc': 0.1588}, avg_fitness: 0.1133
+Selected pop: [103, 67]
+Crossover finished.
+Replacement(108, fitness: 0.0960) finished.
+Iter: 335
+Best_fit: {'pop': 7, 'train_loss': 2.3013, 'train_acc': 0.162}, avg_fitness: 0.1138
+Selected pop: [55, 51]
+Crossover finished.
+Replacement(108, fitness: 0.0794) finished.
+Iter: 336
+Best_fit: {'pop': 61, 'train_loss': 2.301, 'train_acc': 0.168}, avg_fitness: 0.1153
+Selected pop: 79
+Mutation finished.
+Replacement(58, fitness: 0.0960) finished.
+Iter: 337
+Best_fit: {'pop': 61, 'train_loss': 2.3003, 'train_acc': 0.1632}, avg_fitness: 0.1129
+Selected pop: [91, 32]
+Crossover finished.
+Replacement(72, fitness: 0.0960) finished.
+Iter: 338
+Best_fit: {'pop': 69, 'train_loss': 2.3018, 'train_acc': 0.1572}, avg_fitness: 0.1138
+Selected pop: 71
+Mutation finished.
+Replacement(86, fitness: 0.0962) finished.
+Iter: 339
+Best_fit: {'pop': 7, 'train_loss': 2.3044, 'train_acc': 0.1564}, avg_fitness: 0.1139
+Selected pop: [54, 60]
+Crossover finished.
+Replacement(39, fitness: 0.0948) finished.
+Iter: 340
+Best_fit: {'pop': 7, 'train_loss': 2.2998, 'train_acc': 0.167, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1137
+Selected pop: [2, 35]
+Crossover finished.
+Replacement(39, fitness: 0.0836) finished.
+Iter: 341
+Best_fit: {'pop': 7, 'train_loss': 2.3006, 'train_acc': 0.1654}, avg_fitness: 0.1141
+Selected pop: 13
+Mutation finished.
+Replacement(84, fitness: 0.0942) finished.
+Iter: 342
+Best_fit: {'pop': 7, 'train_loss': 2.3018, 'train_acc': 0.1636}, avg_fitness: 0.1142
+Selected pop: [52, 6]
+Crossover finished.
+Replacement(86, fitness: 0.0986) finished.
+Iter: 343
+Best_fit: {'pop': 61, 'train_loss': 2.3003, 'train_acc': 0.1592}, avg_fitness: 0.1136
+Selected pop: [62, 111]
+Crossover finished.
+Replacement(41, fitness: 0.0964) finished.
+Iter: 344
+Best_fit: {'pop': 69, 'train_loss': 2.3019, 'train_acc': 0.1596}, avg_fitness: 0.1142
+Selected pop: 59
+Mutation finished.
+Replacement(98, fitness: 0.0942) finished.
+Iter: 345
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.1582}, avg_fitness: 0.1142
+Selected pop: [24, 45]
+Crossover finished.
+Replacement(84, fitness: 0.0954) finished.
+Iter: 346
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.1642}, avg_fitness: 0.1144
+Selected pop: [7, 57]
+Crossover finished.
+Replacement(84, fitness: 0.0918) finished.
+Iter: 347
+Best_fit: {'pop': 61, 'train_loss': 2.3004, 'train_acc': 0.166}, avg_fitness: 0.1149
+Selected pop: [31, 6]
+Crossover finished.
+Replacement(98, fitness: 0.0952) finished.
+Iter: 348
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.1618}, avg_fitness: 0.1140
+Selected pop: 94
+Mutation finished.
+Replacement(58, fitness: 0.0922) finished.
+Iter: 349
+Best_fit: {'pop': 7, 'train_loss': 2.3033, 'train_acc': 0.1636}, avg_fitness: 0.1137
+Selected pop: [56, 102]
+Crossover finished.
+Replacement(49, fitness: 0.0960) finished.
+Iter: 350
+Best_fit: {'pop': 7, 'train_loss': 2.3038, 'train_acc': 0.1632, 'test_loss': 2.3026, 'test_acc': 0.1563}, avg_fitness: 0.1146
+Selected pop: [68, 53]
+Crossover finished.
+Replacement(49, fitness: 0.0948) finished.
+Iter: 351
+Best_fit: {'pop': 61, 'train_loss': 2.3005, 'train_acc': 0.1612}, avg_fitness: 0.1146
+Selected pop: 79
+Mutation finished.
+Replacement(49, fitness: 0.0786) finished.
+Iter: 352
+Best_fit: {'pop': 69, 'train_loss': 2.3014, 'train_acc': 0.1584}, avg_fitness: 0.1146
+Selected pop: [65, 93]
+Crossover finished.
+Replacement(49, fitness: 0.0824) finished.
+Iter: 353
+Best_fit: {'pop': 61, 'train_loss': 2.3007, 'train_acc': 0.1508}, avg_fitness: 0.1138
+Selected pop: 12
+Mutation finished.
+Replacement(20, fitness: 0.0940) finished.
+Iter: 354
+Best_fit: {'pop': 61, 'train_loss': 2.3008, 'train_acc': 0.1612}, avg_fitness: 0.1140
+Selected pop: [31, 95]
+Crossover finished.
