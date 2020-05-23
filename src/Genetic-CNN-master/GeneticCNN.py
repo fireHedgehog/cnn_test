@@ -269,6 +269,7 @@ for bi in best_individuals:
     print(bi)
 
 """
+print : 
 ## 3 8
 (
     [
