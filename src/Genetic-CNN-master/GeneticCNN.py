@@ -236,15 +236,15 @@ def evaluateModel(individual):
                     #     f.write(text)
         score = session.run(accuracy, feed_dict={X: test_imgs, Y: test_labels})
         print('Accuracy: ', score)
-        with open('Accuracy_04_08_20.txt', 'a+') as f:
+        with open('Accuracy_03_08_20.txt', 'a+') as f:
             txt = 'accuracy\n'
             txt += (str(score) + '\n')
             f.write(txt)
     return score,
 
 
-population_size = 20
-num_generations = 3
+population_size = 10
+num_generations = 20
 
 creator.create("FitnessMax", base.Fitness, weights=(1.0,))
 creator.create("Individual", list, fitness=creator.FitnessMax)
@@ -267,3 +267,43 @@ print(result)
 best_individuals = tools.selBest(popl, k=3)
 for bi in best_individuals:
     print(bi)
+
+"""
+## 3 8
+(
+    [
+       [1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1], [1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1],
+       [1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1], [1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1],
+       [1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1], [1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1],
+       [1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0], [0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1],
+       [1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1], [0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0]
+    ],
+    [
+        {'gen': 0, 'nevals': 10},
+        {'gen': 1, 'nevals': 10},
+        {'gen': 2, 'nevals': 10},
+        {'gen': 3, 'nevals': 8},
+        {'gen': 4, 'nevals': 10},
+        {'gen': 5, 'nevals': 10},
+        {'gen': 6, 'nevals': 10},
+        {'gen': 7, 'nevals': 10},
+        {'gen': 8, 'nevals': 10},
+        {'gen': 9, 'nevals': 10},
+        {'gen': 10, 'nevals': 10},
+        {'gen': 11, 'nevals': 10},
+        {'gen': 12, 'nevals': 10},
+        {'gen': 13, 'nevals': 10},
+        {'gen': 14, 'nevals': 10},
+        {'gen': 15, 'nevals': 10},
+        {'gen': 16, 'nevals': 10},
+        {'gen': 17, 'nevals': 10},
+        {'gen': 18, 'nevals': 10},
+        {'gen': 19, 'nevals': 10},
+    ]
+)
+
+[0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1]
+[1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0]
+[1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1]
+
+"""
