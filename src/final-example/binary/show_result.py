@@ -20,7 +20,7 @@ print(df.describe())
 plt.plot(df[['Accuracy']], marker='+', markerfacecolor='skyblue', markersize=5, linewidth=2)
 plt.legend(['Mutation Rate=0.3, crossover=0.8, population=10'], loc='upper left')
 plt.title('Accuracy')
-plt.xlabel('Generations')
+plt.xlabel('Iterations (Networks)')
 plt.ylabel('Accuracy')
 
 plt.show()
